@@ -6,6 +6,9 @@ import router from './router'
 
 Vue.config.productionTip = false
 
+// normalice.css 추가
+import 'normalize.css'
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
